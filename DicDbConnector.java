@@ -12,8 +12,8 @@ public class DicDbConnector {
 	
 	private static String _POSTGRESQL_DRIVER = "org.postgresql.Driver";
 	private static String _URL = "jdbc:postgresql://localhost:5432/";
-	private static String _UID = "postgres";
-	private static String _PWD = "pass";
+	private static String _UID = "xxx";
+	private static String _PWD = "xxx";
 	private static String _DBNAME = "test";
 	private static Connection _conn = null;
 	
